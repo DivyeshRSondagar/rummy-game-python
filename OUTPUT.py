@@ -4,7 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ============== RESTART: C:\Users\JKSOL\Desktop\Python\code\main.py =============
 Enter name of Player 0: divyesh
 Enter name of Player 1: jay
-[2J
+ 
 *** divyesh your cards are:
  J♢ 8♢ T♢ 7♢ 5♢ 7♣ 8♡ 4♠ T♠ T♡ A♢ 8♢ 7♢
 The card at the top of the pile is:  8♠
@@ -27,19 +27,19 @@ The card at the top of the pile is:  8♠
 - Card with Rank 10 is represented as Rank T
 --------------------------------------------
 Enter to continue ....
-[2J
+ 
 *** divyesh your cards are:
  J♢ 8♢ T♢ 7♢ 5♢ 7♣ 8♡ 4♠ T♠ T♡ A♢ 8♢ 7♢
 The card at the top of the pile is:  8♠
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: s
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ 8♡ 8♢ T♢ T♠ T♡ J♢
 The card at the top of the pile is:  8♠
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: p
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ 8♡ 8♢ T♢ T♠ T♡ J♢ 8♠
 Empty pile.
@@ -47,22 +47,22 @@ Empty pile.
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 8h
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  A♡ K♢ 2♣ Q♠ 5♡ Q♣ J♢ 4♡ 2♢ J♠ 8♡ 6♠ Q♢
 The card at the top of the pile is:  8♡
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: s
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♠ Q♣ Q♢ K♢
 The card at the top of the pile is:  8♡
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♠ Q♣ Q♢ K♢ 5♣
 The card at the top of the pile is:  8♡
@@ -70,16 +70,16 @@ The card at the top of the pile is:  8♡
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 5c
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ 8♢ T♢ T♠ T♡ J♢ 8♠
 The card at the top of the pile is:  5♣
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣
 The card at the top of the pile is:  5♣
@@ -87,16 +87,16 @@ The card at the top of the pile is:  5♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 8d
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♠ Q♣ Q♢ K♢
 The card at the top of the pile is:  8♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♠ Q♣ Q♢ K♢ Q♠
 The card at the top of the pile is:  8♢
@@ -104,22 +104,22 @@ The card at the top of the pile is:  8♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): Qs
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣
 The card at the top of the pile is:  Q♠
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣ Q♣
 The card at the top of the pile is:  Q♠
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: 7d
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 7♣ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣ Q♣
 The card at the top of the pile is:  Q♠
@@ -127,16 +127,16 @@ The card at the top of the pile is:  Q♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 7d
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♣ Q♢ K♢ Q♠
 The card at the top of the pile is:  7♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♣ Q♢ K♢ Q♠ 5♠
 The card at the top of the pile is:  7♢
@@ -144,16 +144,16 @@ The card at the top of the pile is:  7♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 5s
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♣ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣ Q♣
 The card at the top of the pile is:  5♠
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♣ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣ Q♣ 7♣
 The card at the top of the pile is:  5♠
@@ -161,29 +161,29 @@ The card at the top of the pile is:  5♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 7c
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♣ Q♢ K♢ Q♠
 The card at the top of the pile is:  7♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ J♢ J♠ Q♣ Q♢ K♢ Q♠ 9♢
 The card at the top of the pile is:  7♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: s
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢
 The card at the top of the pile is:  7♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: t
 ERROR: You have 14 cards. Cannot take anymore. Enter to continue
-[2J
+ 
 *** jay your cards are:
  A♡ 2♣ 2♢ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢
 The card at the top of the pile is:  7♣
@@ -191,16 +191,16 @@ The card at the top of the pile is:  7♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: d
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 2C
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣ Q♣ 7♣
 The card at the top of the pile is:  2♣
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♢ T♠ T♡ J♢ 8♠ T♣ Q♣ 7♣ 5♣
 The card at the top of the pile is:  2♣
@@ -208,29 +208,29 @@ The card at the top of the pile is:  2♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 8S
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  A♡ 2♢ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢
 The card at the top of the pile is:  8♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** jay your cards are:
  A♡ 2♢ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢
 The card at the top of the pile is:  8♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 ERROR: Cannot drop a card. Player must have 13 cards total. Enter to continue
-[2J
+ 
 *** jay your cards are:
  A♡ 2♢ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢
 The card at the top of the pile is:  8♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** jay your cards are:
  A♡ 2♢ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♡
 The card at the top of the pile is:  8♠
@@ -238,16 +238,16 @@ The card at the top of the pile is:  8♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 2D
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣
 The card at the top of the pile is:  2♢
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢
 The card at the top of the pile is:  2♢
@@ -255,22 +255,22 @@ The card at the top of the pile is:  2♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TD
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  A♡ 4♡ 5♡ 6♠ 8♡ 9♢ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♡
 The card at the top of the pile is:  T♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** jay your cards are:
  A♡ 4♡ 5♡ 6♠ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢
 The card at the top of the pile is:  T♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** jay your cards are:
  A♡ 4♡ 5♡ 6♠ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢
 The card at the top of the pile is:  2♢
@@ -278,16 +278,16 @@ The card at the top of the pile is:  2♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): AH
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢
 The card at the top of the pile is:  A♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢ 2♣
 The card at the top of the pile is:  A♡
@@ -295,16 +295,16 @@ The card at the top of the pile is:  A♡
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 2C
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 6♠ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢
 The card at the top of the pile is:  2♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 6♠ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢ A♢
 The card at the top of the pile is:  2♣
@@ -312,16 +312,16 @@ The card at the top of the pile is:  2♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): AD
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢
 The card at the top of the pile is:  A♢
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢ K♠
 The card at the top of the pile is:  A♢
@@ -329,16 +329,16 @@ The card at the top of the pile is:  A♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): KS
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 6♠ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢
 The card at the top of the pile is:  K♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 6♠ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢ K♠
 The card at the top of the pile is:  A♢
@@ -346,16 +346,16 @@ The card at the top of the pile is:  A♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 6S
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢
 The card at the top of the pile is:  6♠
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ T♣ Q♣ 7♣ 5♣ T♢ T♣
 The card at the top of the pile is:  6♠
@@ -363,16 +363,16 @@ The card at the top of the pile is:  6♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TC
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢ K♠
 The card at the top of the pile is:  T♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 9♢ T♡ J♢ J♠ Q♣ Q♢ Q♠ K♢ T♢ K♠ T♣
 The card at the top of the pile is:  6♠
@@ -380,16 +380,16 @@ The card at the top of the pile is:  6♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): JD
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ Q♣ 7♣ 5♣ T♢ T♣
 The card at the top of the pile is:  J♢
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  A♢ 4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ Q♣ 7♣ 5♣ T♢ T♣ 4♡
 The card at the top of the pile is:  J♢
@@ -397,22 +397,22 @@ The card at the top of the pile is:  J♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): aD
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 9♢ T♡ J♠ Q♣ Q♢ Q♠ K♢ T♢ K♠ T♣
 The card at the top of the pile is:  A♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♣ Q♢ Q♠ K♢ K♠
 The card at the top of the pile is:  A♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♣ Q♢ Q♠ K♢ K♠ 9♢
 The card at the top of the pile is:  A♢
@@ -420,10 +420,10 @@ The card at the top of the pile is:  A♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 9D
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  4♠ 5♢ 7♢ 8♢ T♠ T♡ J♢ Q♣ 7♣ 5♣ T♢ T♣ 4♡
 The card at the top of the pile is:  9♢
@@ -433,7 +433,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TD
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):TH
-[2J
+ 
 *** divyesh your cards are:
  4♠ 5♢ 7♢ 8♢ T♠ T♢ T♡ J♢ Q♣ 7♣ 5♣ T♣ 4♡
 The card at the top of the pile is:  9♢
@@ -443,13 +443,13 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TC
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):TD
-[2J
+ 
 *** divyesh your cards are:
  4♠ 5♢ 7♢ 8♢ T♠ T♣ T♢ T♡ J♢ Q♣ 7♣ 5♣ 4♡
 The card at the top of the pile is:  9♢
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** divyesh your cards are:
  4♠ 5♢ 7♢ 8♢ T♠ T♣ T♢ T♡ J♢ Q♣ 7♣ 5♣ 4♡ 9♢
 The card at the top of the pile is:  A♢
@@ -459,7 +459,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 9D
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):TS
-[2J
+ 
 *** divyesh your cards are:
  4♠ 5♢ 7♢ 8♢ 9♢ T♠ T♣ T♢ T♡ J♢ Q♣ 7♣ 5♣ 4♡
 The card at the top of the pile is:  A♢
@@ -469,7 +469,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TD
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):TS
-[2J
+ 
 *** divyesh your cards are:
  4♠ 5♢ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡ J♢ Q♣ 7♣ 5♣ 4♡
 The card at the top of the pile is:  A♢
@@ -479,7 +479,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 4H
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):4S
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡ J♢ Q♣ 7♣ 5♣
 The card at the top of the pile is:  A♢
@@ -489,7 +489,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 5C
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):7C
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡ J♢ Q♣ 5♣ 7♣
 The card at the top of the pile is:  A♢
@@ -499,7 +499,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): JD
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):TS
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ Q♣ 5♣ 7♣
 The card at the top of the pile is:  A♢
@@ -507,22 +507,22 @@ The card at the top of the pile is:  A♢
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): QC
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ T♡ T♢ T♣ J♠ Q♣ Q♢ Q♠ K♢ K♠ 9♢
 The card at the top of the pile is:  Q♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ T♡ T♢ T♣ J♠ Q♣ Q♢ Q♠ K♢ K♠ 9♢ 4♣
 The card at the top of the pile is:  Q♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♣ Q♢ Q♠ K♢ K♠
 The card at the top of the pile is:  Q♣
@@ -532,7 +532,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): QS
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):QC
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♣ Q♢ K♢ K♠
 The card at the top of the pile is:  Q♣
@@ -542,7 +542,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): KS
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):QC
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♠ K♠ Q♣ Q♢ K♢
 The card at the top of the pile is:  Q♣
@@ -550,23 +550,23 @@ The card at the top of the pile is:  Q♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): QC
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 7♣
 The card at the top of the pile is:  Q♣
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: C
 ERROR: You do not have enough cards to close the game. Enter to Continue playing.
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 7♣
 The card at the top of the pile is:  Q♣
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 7♣ A♠
 The card at the top of the pile is:  Q♣
@@ -574,28 +574,28 @@ The card at the top of the pile is:  Q♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): AS
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♠ K♠ Q♢ K♢
 The card at the top of the pile is:  A♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢
 The card at the top of the pile is:  A♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ 8♣
 The card at the top of the pile is:  A♠
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** jay your cards are:
  4♡ 4♣ 5♡ 8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢
 The card at the top of the pile is:  A♠
@@ -603,16 +603,16 @@ The card at the top of the pile is:  A♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 4C
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 7♣
 The card at the top of the pile is:  4♣
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 7♣ 4♣
 The card at the top of the pile is:  A♠
@@ -622,7 +622,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 4C
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):4S
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 7♣
 The card at the top of the pile is:  A♠
@@ -630,16 +630,16 @@ The card at the top of the pile is:  A♠
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 7C
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢
 The card at the top of the pile is:  7♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: T
-[2J
+ 
 *** jay your cards are:
  4♡ 5♡ 8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠
 The card at the top of the pile is:  7♣
@@ -647,16 +647,16 @@ The card at the top of the pile is:  7♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 5H
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣
 The card at the top of the pile is:  5♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♢ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 5♡
 The card at the top of the pile is:  7♣
@@ -666,7 +666,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 5D
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):5H
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 7♢ 8♢ 9♢ T♢ J♢ T♠ T♣ T♡ 5♣ 5♢ 5♡
 The card at the top of the pile is:  7♣
@@ -675,7 +675,7 @@ The card at the top of the pile is:  7♣
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): JD
 ERROR: The game is not over. Enter to Continue playing.
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡ 5♣ 5♢ 5♡ J♢
 The card at the top of the pile is:  7♣
@@ -684,7 +684,7 @@ The card at the top of the pile is:  7♣
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): JD
 ERROR: The game is not over. Enter to Continue playing.
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡ 5♣ 5♢ 5♡ J♢
 The card at the top of the pile is:  7♣
@@ -692,23 +692,23 @@ The card at the top of the pile is:  7♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): JD
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  4♡ 8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠
 The card at the top of the pile is:  J♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: C
 ERROR: You do not have enough cards to close the game. Enter to Continue playing.
-[2J
+ 
 *** jay your cards are:
  4♡ 8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠
 The card at the top of the pile is:  J♢
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** jay your cards are:
  4♡ 8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠ J♢
 The card at the top of the pile is:  7♣
@@ -716,16 +716,16 @@ The card at the top of the pile is:  7♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 4H
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡ 5♣ 5♢ 5♡
 The card at the top of the pile is:  4♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: S
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ 7♢ 8♢ 9♢ T♢ T♠ T♣ T♡
 The card at the top of the pile is:  4♡
@@ -735,7 +735,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TH
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):5H
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ T♡ 5♡ 7♢ 8♢ 9♢ T♢ T♠ T♣
 The card at the top of the pile is:  4♡
@@ -745,7 +745,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TH
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):7D
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ 7♢ 8♢ 9♢ T♢ T♠ T♣
 The card at the top of the pile is:  4♡
@@ -755,7 +755,7 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TC
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):7D
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ 7♢ 8♢ 9♢ T♢ T♠
 The card at the top of the pile is:  4♡
@@ -765,20 +765,20 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): TS
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):7D
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢
 The card at the top of the pile is:  4♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: C
 ERROR: You do not have enough cards to close the game. Enter to Continue playing.
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢
 The card at the top of the pile is:  4♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢ 4♡
 The card at the top of the pile is:  7♣
@@ -786,22 +786,22 @@ The card at the top of the pile is:  7♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 4H
-[2J
+ 
 *** jay to play now.
 jay hit enter to continue...
-[2J
+ 
 *** jay your cards are:
  8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠ J♢
 The card at the top of the pile is:  4♡
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** jay your cards are:
  8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠ J♢ 4♡
 The card at the top of the pile is:  7♣
 *** jay, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: 8H
-[2J
+ 
 *** jay your cards are:
  8♡ 8♣ 9♢ T♡ T♢ T♣ J♠ Q♠ Q♢ K♠ K♢ J♠ J♢ 4♡
 The card at the top of the pile is:  7♣
@@ -809,10 +809,10 @@ The card at the top of the pile is:  7♣
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: D
 Which card would you like to drop? 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 8H
-[2J
+ 
 *** divyesh to play now.
 divyesh hit enter to continue...
-[2J
+ 
 *** divyesh your cards are:
  4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢ 4♡
 The card at the top of the pile is:  8♡
@@ -822,20 +822,20 @@ Enter which card you want to move.
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts): 4H
 Enter where you want move card to (which card the moving card will go before) Enter Space to move to end 
 Enter Rank followed by first letter of Suit. i.e. 4H (4 of Hearts):4C
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢
 The card at the top of the pile is:  8♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: C
 ERROR: You do not have enough cards to close the game. Enter to Continue playing.
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢
 The card at the top of the pile is:  8♡
 *** divyesh, What would you like to do? ***, 
 (M)ove Cards, (P)ick from pile, (T)ake from deck, (D)rop, (S)ort, (C)lose Game, (R)ules: P
-[2J
+ 
 *** divyesh your cards are:
  4♡ 4♣ 4♠ 5♣ 5♢ 5♡ T♡ T♣ T♠ 7♢ 8♢ 9♢ T♢ 8♡
 The card at the top of the pile is:  7♣

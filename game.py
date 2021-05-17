@@ -30,7 +30,7 @@ class Game:
 	def play(self):
 		i = 0
 		while self.players[i].play() == False:
-			print(chr(27)+"[2J")
+			print(chr(27))
 			i += 1
 			if i == len(self.players):
 				i = 0

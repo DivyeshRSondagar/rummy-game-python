@@ -1,1 +1,2 @@
 # rummy-game-python
+Rummy is a classic cardgame where the objective is to be the first to get rid of all your cards, by creating melds, which can either be sets, three or four cards of the same rank, e.g. ♥8♠8♦8, or runs, which are three or more cards of the same suit in a sequence, e.g. ♥A♥2♥3. Aces are low, and sequences can not wrap around. There are many, many variations of Rummy that exist, this particular implementation is Basic Rummy, or Traditional Rummy.
